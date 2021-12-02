@@ -1,6 +1,7 @@
 # dotfile
 設定ファイル置き場
 
+```
 dotfile
 ├── README.md
 ├── .zshrc
@@ -10,5 +11,5 @@ dotfile
 │   ├── init.vim
 │   └── dein.toml
 ├── .gitignore
-
+```
 - zshrcとbash_profileがあるのはローカルがzshで研究用サーバはbashだから

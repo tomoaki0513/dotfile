@@ -8,8 +8,11 @@
 !/.zshrc
 !/.bash_profile
 !/.tmux.conf
-!/nvim/init.vim
-!/nvim/dein.toml
+!/nvim/*
+!/git/*
+!/tmux/*
+!/script/*
+!/zsh/*
 
 !/README.md
 !/LICENSE

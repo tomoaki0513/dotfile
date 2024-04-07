@@ -1,0 +1,4 @@
+:CocInstall coc-rst-analyzeru
+:CocInstall coc-pyright
+:CocInstall coc-rls
+:CocInstall coc-tsserver

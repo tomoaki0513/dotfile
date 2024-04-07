@@ -1,0 +1,150 @@
+Extra options: []
+Measured: 10 times
+
+Total Average: 67.655200 msec
+Total Max:     70.679000 msec
+Total Min:     65.668000 msec
+
+  AVERAGE       MAX       MIN
+------------------------------
+35.552800 37.919000 33.656000: /Users/nakamuratomoaki/.config/nvim/plugin/packer_compiled.lua
+10.917700 11.182000 10.500000: inits 1
+ 7.149300  7.560000  6.621000: /Users/nakamuratomoaki/.config/nvim/init.lua
+ 3.167100  3.846000  2.919000: loading rtp plugins
+ 2.893800  3.078000  2.648000: require('plugin')
+ 2.822900  3.223000  2.674000: reading ShaDa
+ 2.815000  3.578000  2.528000: require('lspconfig.util')
+ 2.616600  3.310000  2.354000: require('vim.lsp')
+ 2.483600  3.483000  2.271000: require('nvim-treesitter.configs')
+ 2.297400  3.249000  2.104000: require('nvim-treesitter.query')
+ 1.849300  2.171000  1.682000: loading packages
+ 1.665300  1.712000  1.582000: require('color')
+ 1.550600  1.926000  1.344000: require('vim.lsp.handlers')
+ 1.455100  1.565000  1.380000: require('language')
+ 1.373900  1.559000  1.276000: require('mason')
+ 1.090000  1.126000  1.060000: sourcing vimrc file(s)
+ 1.000800  1.368000  0.890000: require('nvim-treesitter.tsrange')
+ 0.969900  1.109000  0.849000: require('mason-core.platform')
+ 0.944700  1.325000  0.685000: require('nvim-treesitter.compat')
+ 0.894400  0.975000  0.793000: require('packer')
+ 0.884600  1.149000  0.773000: require('nvim-treesitter.ts_utils')
+ 0.821700  1.446000  0.715000: require('mason-registry')
+ 0.818200  0.850000  0.782000: /Users/nakamuratomoaki/.local/share/nvim/site/pack/jetpack/opt/vim-kalisi/colors/kalisi.vim
+ 0.815900  1.029000  0.717000: /Users/nakamuratomoaki/.local/share/nvim/site/pack/packer/start/nvim-treesitter/plugin/nvim-treesitter.lua
+ 0.747400  1.131000  0.538000: require('vim.treesitter')
+ 0.702600  0.731000  0.673000: BufEnter autocommands
+ 0.642200  0.714000  0.569000: require('nvim-treesitter.parsers')
+ 0.621500  0.699000  0.565000: require('packer.plugin_utils')
+ 0.586100  0.938000  0.420000: require('vim.treesitter.languagetree')
+ 0.504300  0.770000  0.323000: require('vim.lsp.protocol')
+ 0.481900  0.555000  0.415000: require('edit')
+ 0.465400  0.580000  0.415000: require('vim.lsp.util')
+ 0.440700  0.483000  0.412000: require('mason-lspconfig')
+ 0.429500  0.973000  0.336000: require('mason-core.fs')
+ 0.427800  1.004000  0.339000: require('nvim-treesitter.install')
+ 0.397600  0.563000  0.329000: require('nvim-treesitter')
+ 0.389200  0.460000  0.347000: require('mason.api.command')
+ 0.371900  0.401000  0.328000: require('base')
+ 0.339400  0.446000  0.283000: /Users/nakamuratomoaki/.local/share/nvim/site/pack/packer/start/nvim-yati/plugin/nvim-yati.vim
+ 0.337600  0.352000  0.324000: /Users/nakamuratomoaki/.local/share/nvim/site/pack/packer/start/auto-pairs/plugin/auto-pairs.vim
+ 0.331300  0.396000  0.301000: require('mason-lspconfig.mappings.server')
+ 0.329500  0.409000  0.163000: require('vim.lsp.log')
+ 0.329200  0.366000  0.250000: require('mason-core.functional.function')
+ 0.320200  0.676000  0.247000: require('mason-lspconfig.api.command')
+ 0.318600  0.350000  0.285000: require('packer.jobs')
+ 0.311400  0.331000  0.295000: /opt/homebrew/Cellar/neovim/0.9.4/share/nvim/runtime/syntax/syntax.vim
+ 0.307500  0.334000  0.298000: init lua interpreter
+ 0.267000  0.282000  0.259000: init highlight
+ 0.263400  0.449000  0.222000: require('lspconfig.configs')
+ 0.259100  0.453000  0.200000: require('vim.treesitter.query')
+ 0.241500  0.306000  0.204000: require('mason-lspconfig.lspconfig_hook')
+ 0.237500  0.264000  0.224000: expanding arguments
+ 0.230400  0.301000  0.207000: require('nvim-yati')
+ 0.224100  0.269000  0.194000: /opt/homebrew/Cellar/neovim/0.9.4/share/nvim/runtime/filetype.lua
+ 0.213500  0.245000  0.132000: require('packer.snapshot')
+ 0.205200  0.293000  0.138000: require('packer.log')
+ 0.200000  0.282000  0.149000: require('option')
+ 0.193200  0.233000  0.141000: require('mason-core.functional')
+ 0.184200  0.192000  0.178000: require('vim._init_packages')
+ 0.181000  0.194000  0.173000: /opt/homebrew/Cellar/neovim/0.9.4/share/nvim/runtime/plugin/rplugin.vim
+ 0.177600  0.196000  0.141000: require('mason-core.log')
+ 0.167600  0.256000  0.136000: require('mason-core.terminator')
+ 0.165400  0.172000  0.160000: locale set
+ 0.157000  0.181000  0.125000: require('packer.util')
+ 0.157000  0.290000  0.129000: require('mason-core.async')
+ 0.152500  0.620000  0.093000: require('nvim-treesitter.info')
+ 0.150200  0.389000  0.105000: require('mason-core.functional.number')
+ 0.148100  0.193000  0.129000: require('vim.lsp.rpc')
+ 0.147000  0.222000  0.122000: require('vim.lsp._snippet')
+ 0.146900  0.184000  0.121000: require('mason-core.functional.relation')
+ 0.145800  0.172000  0.119000: require('packer.result')
+ 0.145300  0.172000  0.119000: require('packer.async')
+ 0.143200  0.168000  0.098000: require('mason-core.functional.data')
+ 0.142900  0.530000  0.093000: require('mason-core.async.uv')
+ 0.138100  0.168000  0.116000: require('vim.lsp.buf')
+ 0.136600  0.438000  0.084000: /Users/nakamuratomoaki/.local/share/nvim/site/pack/packer/start/nvim-lspconfig/plugin/lspconfig.lua
+ 0.135300  0.364000  0.097000: require('mason-lspconfig.server_config_extensions')
+ 0.133500  0.207000  0.105000: require('mason-core.path')
+ 0.132900  0.155000  0.127000: init default mappings & autocommands
+ 0.131100  0.180000  0.115000: require('lspconfig.server_configurations.omnisharp')
+ 0.131000  0.170000  0.099000: require('mason-core.functional.logic')
+ 0.129300  0.158000  0.113000: require('vim.lsp.semantic_tokens')
+ 0.126200  0.157000  0.106000: require('mason-core.optional')
+ 0.125900  0.225000  0.105000: require('nvim-treesitter.shell_command_selectors')
+ 0.124200  0.164000  0.107000: require('lspconfig.async')
+ 0.123400  0.181000  0.102000: require('mason-lspconfig.settings')
+ 0.120100  0.148000  0.100000: require('mason.settings')
+ 0.119900  0.198000  0.102000: require('nvim-treesitter.statusline')
+ 0.119700  0.159000  0.107000: require('nvim-treesitter.query_predicates')
+ 0.119100  0.140000  0.103000: require('mason-core.EventEmitter')
+ 0.118800  0.134000  0.105000: require('mason-core.functional.list')
+ 0.117800  0.160000  0.099000: require('nvim-treesitter.utils')
+ 0.116900  0.149000  0.097000: require('mason-lspconfig.notify')
+ 0.116100  0.175000  0.095000: require('mason-core.functional.string')
+ 0.114500  0.140000  0.093000: require('mason-core.functional.table')
+ 0.114000  0.209000  0.094000: require('vim.lsp.diagnostic')
+ 0.113700  0.171000  0.096000: require('vim.lsp.codelens')
+ 0.113000  0.177000  0.093000: require('vim.treesitter._range')
+ 0.112300  0.140000  0.102000: require('nvim-yati.utils')
+ 0.111200  0.139000  0.091000: require('vim.highlight')
+ 0.111200  0.143000  0.096000: require('mason-registry.sources')
+ 0.106600  0.115000  0.102000: early init
+ 0.103500  0.122000  0.088000: require('vim.lsp.sync')
+ 0.102500  0.136000  0.090000: require('vim.treesitter.language')
+ 0.095400  0.130000  0.085000: require('nvim-treesitter.caching')
+ 0.086900  0.092000  0.073000: require('vim._editor')
+ 0.086500  0.122000  0.062000: /opt/homebrew/Cellar/neovim/0.9.4/share/nvim/runtime/plugin/editorconfig.lua
+ 0.070200  0.142000  0.047000: /opt/homebrew/Cellar/neovim/0.9.4/share/nvim/runtime/plugin/nvim.lua
+ 0.069900  0.075000  0.066000: event init
+ 0.069200  0.120000  0.046000: /opt/homebrew/Cellar/neovim/0.9.4/share/nvim/runtime/plugin/man.lua
+ 0.068400  0.077000  0.064000: /opt/homebrew/Cellar/neovim/0.9.4/share/nvim/runtime/syntax/synload.vim
+ 0.061900  0.092000  0.051000: opening buffers
+ 0.050600  0.087000  0.039000: require('vim.shared')
+ 0.035650  0.064000  0.009000: /opt/homebrew/Cellar/neovim/0.9.4/share/nvim/runtime/ftplugin.vim
+ 0.032400  0.033000  0.031000: require('vim._options')
+ 0.032100  0.035000  0.030000: require('vim.loader')
+ 0.030700  0.034000  0.030000: init first window
+ 0.028400  0.052000  0.023000: /opt/homebrew/Cellar/neovim/0.9.4/share/nvim/runtime/plugin/gzip.vim
+ 0.023800  0.027000  0.022000: require('vim.fs')
+ 0.021700  0.033000  0.016000: inits 2
+ 0.016400  0.030000  0.007000: /opt/homebrew/Cellar/neovim/0.9.4/share/nvim/runtime/indent.vim
+ 0.015300  0.018000  0.014000: window checked
+ 0.015100  0.016000  0.015000: clear screen
+ 0.012900  0.017000  0.012000: /opt/homebrew/Cellar/neovim/0.9.4/share/nvim/runtime/plugin/netrwPlugin.vim
+ 0.012800  0.022000  0.011000: /opt/homebrew/Cellar/neovim/0.9.4/share/nvim/runtime/plugin/zipPlugin.vim
+ 0.012300  0.018000  0.011000: /opt/homebrew/Cellar/neovim/0.9.4/share/nvim/runtime/plugin/tarPlugin.vim
+ 0.012100  0.020000  0.009000: /opt/homebrew/Cellar/neovim/0.9.4/share/nvim/runtime/plugin/matchit.vim
+ 0.011200  0.015000  0.004000: require('vim.F')
+ 0.010500  0.021000  0.008000: /opt/homebrew/Cellar/neovim/0.9.4/share/nvim/runtime/plugin/health.vim
+ 0.010000  0.014000  0.008000: /opt/homebrew/Cellar/neovim/0.9.4/share/nvim/runtime/plugin/matchparen.vim
+ 0.009700  0.011000  0.009000: inits 3
+ 0.008800  0.014000  0.007000: /Users/nakamuratomoaki/.local/share/nvim/rplugin.vim
+ 0.008300  0.014000  0.007000: /opt/homebrew/Cellar/neovim/0.9.4/share/nvim/runtime/plugin/spellfile.vim
+ 0.008000  0.013000  0.007000: /opt/homebrew/Cellar/neovim/0.9.4/share/nvim/runtime/plugin/tohtml.vim
+ 0.007900  0.013000  0.006000: /opt/homebrew/Cellar/neovim/0.9.4/share/nvim/runtime/plugin/shada.vim
+ 0.007000  0.011000  0.006000: /opt/homebrew/Cellar/neovim/0.9.4/share/nvim/runtime/plugin/tutor.vim
+ 0.006900  0.008000  0.006000: require('vim.keymap')
+ 0.003800  0.004000  0.003000: --- NVIM STARTING ---
+ 0.003100  0.007000  0.002000: editing files in windows
+ 0.002800  0.003000  0.002000: parsing arguments
+ 0.002100  0.003000  0.002000: loading after plugins

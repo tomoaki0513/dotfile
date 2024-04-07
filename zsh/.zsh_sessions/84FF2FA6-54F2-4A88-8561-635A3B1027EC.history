@@ -1,0 +1,1003 @@
+ls
+cd rust-lesson
+ls
+vim src/main.rs
+cd ..
+ls
+cd python
+ls
+vim main.py
+vim alch.py
+cd ..
+ls
+cd pass
+ls
+cd ..
+cd Linux-Expr
+ls
+vim R
+vim README.md
+cd src
+ls
+git status
+git branch -a
+ls
+cd ShellProg
+ls
+vim find_loop.txt
+vim prime.sh
+tree
+ls
+vim time.txt
+cd ..
+ls
+cd MakefileMacro
+ls
+vim Makefile
+ssh sss
+ssh sora
+ping cosmos1
+prog
+ls
+mkdir haskell
+cd haskell
+ls
+mkdir lesson
+docker pull haskell
+ls
+docker scout quickview haskell
+docker ps
+docker ps -a
+cd lesson
+ls
+docker run -it haskell
+;s
+ls
+docker ps
+docker run -it haskell
+docker exec -it haskell bash
+docker run -it haskell
+ls
+vim docker-compose.yml
+vim M
+vim Makefile
+ls
+docker ps -a
+docker rm 2a4 2d2 fdd d06
+make up
+vim docker-compose.yml
+make up
+ls
+vim hello.hs
+make exec
+docker ps
+docker exec -it haskell bash
+ls
+make down
+ls
+vim docker-compose.yml
+make build
+make ps
+make up
+make exec
+ls
+docker exec -it haskell bash
+ls
+make down
+docker ps -a
+docker images
+ls
+rm ghc-9.4.7-aarch64-unknown-linux
+ll
+rm -rf ghc-9.4.7-aarch64-unknown-linux
+ls
+make up
+docker exec -it haskell bash
+docker ps
+docker ps -a
+docker images
+docker -v
+docker compose -v
+docker-compose -v
+kubectl -v
+kubectl -V
+kubectl --help
+ls
+docker run -it haskell
+docker exec -it haskell bash
+ls
+docker ps -a
+docker rm 6e3
+docker rm 9a9
+docker images
+ls
+vim docker-compose.yml
+make up
+ls
+make exec
+vim docker-compose.yml
+make ps
+vim Makefile
+make exec
+vim docker-compose.yml
+make down
+vim docker-compose.yml
+make donw
+make down
+make build
+make up
+make exec_
+make exec
+make ps
+make down
+vim docker-compose.yml
+make up
+ls
+make exec
+ls
+vim hello.hi
+file hello
+ls
+vim hello.o
+./hello
+hello
+./hello.o
+./hello
+make exec
+ls
+vim docker-compose.yml
+make down
+make up
+make exec
+ls
+rm hello.hs
+ls
+cd /Applications/
+ls
+file Adobe\ Acrobat\ Reader.app
+sw_vers
+file DeepL.app
+cd DeepL.app/Contents/Applications/DeepLUninstall.app/Contents/MacOS
+ls
+cd /Applications
+ks
+ls
+cd
+ls
+cd /Applications
+cd Adobe\ Acrobat\ Reader.app
+ls
+cd Contents
+ls
+ls
+ll
+vim Support
+cd Plugins
+ls
+cd ..
+vim PkgInfo
+tree
+prog
+cd docker
+ls
+cd ..
+ls
+ll
+cd
+ll
+cd Desktop
+ls
+ll
+$ git clone https://github.com/ockeghem/SQLi-to-bypass-auth2.git\
+$ cd SQLi-to-bypass-auth2\
+$ docker compose up -d\
+
+git clone https://github.com/ockeghem/SQLi-to-bypass-auth2.git
+ls
+cd SQLi-to-bypass-auth2
+docker compose up -d
+ls
+vim docker-compose.yml
+cd html
+ls
+cd ..
+ks
+docker compose ps
+docker compose down
+ls
+docker images
+docker rmi f47 475
+docker images
+ls
+cd ..
+rm -rf SQLi-to-bypass-auth2
+ls
+ls
+docker exec -it haskell bash
+prog
+cd docker/beyond_front
+ls
+vim Makefile
+cd ..
+cd ..
+cd haskell
+ls
+cd lesson
+ls
+vim hello.hs
+docker ps
+ls
+make down
+docker ps -a
+tmit
+make exec_n
+make exec_f
+ls
+vim Dockerfile.front
+vim docker-compose.yml
+cd ..
+cp -r beyond_front/beyond_front_volume/beyond_front compact
+ls
+vim Makefile
+cd beyond_front
+vim Makefile
+vim docker-compose.yml
+make exec_f
+ls
+prog
+ls
+cd docker
+ls
+cd react-admin
+ls
+ls
+cd react-admin-dashboard
+ls
+ls
+cd src
+ls
+ls
+vim theme.js
+prog
+cd fo
+cd docker
+ls
+cd beyond_front/
+ls
+make exec_f
+ls
+make ps
+vim Dockerfile.front
+make up
+make exec_f
+make down
+cd ..
+ls
+mkdir compact
+cd compact
+vim Dockerfile.front
+vim docker-compose.yml
+ls
+vim docker-compose.yml
+ls
+mkdir compact_volume
+mv beyond_front compact_volume
+vim docker-compose.yml
+docker compose build
+ls
+docker compose ps
+docker compose ps -a
+docker compose up -d
+vim docker-compose.yml
+docker compose exec -it web_server /bin/bash
+docker compose ps
+docker compose ps -a
+docker compose exec -it web_server /bin/bash
+docker compose up -d
+docker compose ps -a
+docker compose ps 
+docker compose exec -it web_server /bin/bash
+vim docker-compose.yml
+docker compose down --rmi all --volumes --remove-orphans
+docker compose up -d
+docker compose ps
+docker compose exec -it web_server /bin/bash
+docker compose ps
+docker compose up 
+vim docker-compose.yml
+docker compose up -d
+docker compose ps -a
+docker compose ps 
+docker compose ps -a
+docker compose up
+ls
+cd compact_volume
+ls
+cd beyond_front
+ls
+cd ..
+cd beyond_fronta
+ls
+cd ..
+ls
+cd beyond_front
+ls
+git stauts
+git status
+cd ..
+rm -rf beyond_fronta
+cd ..
+ls
+vim docker-compose.yml
+ls
+cd ..
+docker compose up
+ls
+cd compact
+docker compose up
+ls
+cd compact_volume
+ls
+cd beyond_front
+ls
+rm -rf node_modules
+cd ..
+ls
+cd ..
+docker compose up
+vim docker-compose.yml
+docker compose up -d
+docker compose ps
+docker compose ps
+ls
+docker compose exec -it web_server /bin/bash
+docker compose ps
+ls
+docker compose down
+docker compose down --rmi all --volumes --remove-orphans
+docker compose up
+docker compose up -d
+ls
+docker compose exec -it web_server /bin/bash
+docker compose ps
+docker compose ps
+docker compose ps -a
+vim docker-compose.yml
+docker compose down
+ls
+cd ..
+ls
+cd react-admin
+cd ..
+cd beyond_front
+ls
+ls
+docker ps -a
+docker ps
+ls
+make ps
+make up
+make exec_f
+ls
+cd beyond_front_volume/beyond_front
+ls
+cd src/stories/molecules
+ls
+vim Table.tsx
+vim Table.stories.tsx
+vim Table.tsx
+ls
+vim HardwareForm.tsx
+ls
+cd ..
+ls
+cd ..
+ls
+vim index.tsx
+vim App.tsx
+vim App.tsx
+vim App.tsx
+ls
+cd stories/organisms
+ls
+vim ManagedUser.tsx
+ps
+ps | grep main
+ls
+ls
+prog
+cd vul_info_gather
+ls
+cd save
+ls
+cd initial
+ls
+vim nvd2022.json
+vim nvd2022.json
+ssh sora
+cd
+ls
+cd Desktop
+ls
+vim „Çº„É£Éø„É£É™„É£º„É£´Ë≥™ÂÉµÉØ„Ç≥„É£ÉÅ„É£≥„É£É®.md
+prog
+ls
+cd it_asset_management
+ls
+python3 main.py
+sh run.sh
+ls
+vim main.py
+python3 main.py
+python3 main.py
+python3 main.py
+ls
+cd beyond_front_volume
+ls
+cd beyond_front
+ls
+ls
+cd src
+ls
+vim theme.ts
+vim App.tsx
+ls
+vim index.tsx
+vim App.tsx
+ls
+cd ato
+cd atoms
+ls
+cd stories
+ls
+cd atoms
+vim BarChart.tsx
+cd ..
+cd ..
+vim theme.ts
+cd stories
+ls
+cd atoms
+ls
+vim BarChart.tsx
+vim StarBox.tsx
+vim LineChart.tsx
+vim StarBox.tsx
+vim ProgressCircle.tsx
+vim StarBox.tsx
+vim LineChart.tsx
+ls
+vim PieChart.tsx
+ls
+vim LineChart.tsx
+rm PieChart.stories.tsx
+vim LineChart.tsx
+vim PieChart.tsx
+vim LineChart.tsx
+vim Header.tsx
+vim Header.tsx
+vim StarBox.tsx
+vim PieChart.tsx
+vim GeographyChart
+vim GeographyChart.tsx
+cd ..
+ls
+cd molecules
+ls
+cd ../../..
+ls
+cd ..
+ls
+cd ..
+ls
+ls
+cd beyond_front_volume
+ls
+cd beyond_front
+ls
+cd src/stories/molecules
+ls
+vim Table.tsx
+vim Table.stories.tsx
+cd ..
+ls
+cd ../
+ls
+cd ..
+vim tsconfig.json
+cd src/stories/molecules
+vim Table.tsx
+vim Table.stories.tsx
+ls
+vim Header.tsx
+cd ..
+ls
+cd atoms
+ls
+vim Header.tsx
+ls
+vim Calender.stories.tsx
+mv Calender.stories.tsx Calendar.stories.tsx
+mv Calender.tsx Calendar.tsx
+vim Calender.stories.tsx
+vim Calendar.stories.tsx
+vim Calendar.stories.tsx
+ls
+vim Accordion.tsx
+cd ..
+cd molecules
+ls
+vim Faq.tsx
+ls
+cd ..
+ls
+cd molecules
+ls
+vim Sidebar.tsx
+vim Faq.tsx
+vim Sidebar.tsx
+cd ..
+ls
+cd organisms
+ls
+vim InfoInput.tsx
+vim Home.tsx
+ls
+cd ..
+cd ..
+vim App.tsx
+ls
+cd stories/molecules
+vim Topbar.tsx
+cd ..
+ls
+cd organisms
+vim Home.tsx
+cd ..
+cd molecules
+ls
+vim Sidebar.tsx
+vim Topbar.
+vim Topbar.tsx
+ls
+ls
+cd ..
+cd organisms
+ls
+vim Home.tsx
+cd ..
+cd molecules
+ls
+vim sidebar.
+vim Sidebar.tsx
+cd ..
+ls
+cd organisms
+ls
+vim home.
+vim Home.tsx
+vim Home.stories.tsx
+cd ..
+ls
+cd molecules
+ls
+vim Sidebar.tsx
+ls
+cd ..
+ls
+cd organisms
+ls
+vim Login.tsx
+ls
+git status
+ls
+cd ..
+ls
+cd molecules
+ls
+vim Sidebar.tsx
+ls
+prog
+cd docker
+ls
+cd beyond_front
+ls
+make exec_i
+prog
+cd docker/react-admin
+ls
+cd react-admin-dashboard
+ls
+cd src
+ls
+vim theme.js
+ls
+cd components
+ls
+vim BarChart.jsx
+vim ../theme.js
+cd ..
+vim App.js
+vim theme.js
+vim App.js
+vim theme.js
+vim App.js
+ls
+cd scenes
+ls
+cd ..
+cd components
+ls
+vim StatBox.jsx
+vim BarChart.jsx
+vim ../theme.js
+ls
+vim StatBox.jsx
+ls
+cd ..
+vim scenes/dashboard/index.jsx
+vim components/StatBox.jsx
+vim components/LineChart.jsx
+vim components/ProgressCircle.jsx
+vim components/PieChart.jsx
+vim components/LineChart.jsx
+ls
+cd con
+ls
+vim components/Header.jsx
+vim components/GeographyChart.jsx
+ls
+cd ..
+ls
+ccd src
+ls
+cd src
+ls
+cd scenes
+ls
+tree
+ls
+ls
+vim ../App.js
+vim contacts/index.jsx
+vim invoices/index.jsx
+vim contacts/index.jsx
+vim invoices/index.jsx
+vim invoices/index.jsx
+ls
+cd contacts
+ls
+vim index.jsx
+ls
+cd ...
+cd ..
+ls
+cd contacts
+ls
+cd ..
+ls
+cd ..
+cd components
+ls
+vim Header.jsx
+cd ..
+ls
+cd data
+ls
+vim mockData.js
+ls
+cd ..
+ls
+cd scenes
+ls
+vim team
+cd team
+ls
+vim index.jsx
+ls
+cd ..
+ls
+cd calendar
+ls
+vim calendar.jsx
+ls
+ls
+cd ..
+ls
+cd faq
+ls
+vim index.jsx
+ls
+cd ..
+ls
+cd sc
+ls
+cd faq
+vim index.jsx
+ls
+cd ..
+vim ../App.js
+cd dashboard
+ls
+vim index.jsx
+lls
+ls
+cd ..
+ls
+cd dashboard
+vim index.jsx
+ls
+cd ..
+ls
+cd ..
+cd components
+ls
+vim ..
+cd ..
+ls
+cd scenes
+ls
+vim dashboard/index.jsx
+cd ..
+vim App.js
+cd scenes
+ls
+cd g
+cd global
+ls
+vim Sidebar.jsx
+cd ..
+ls
+cd ..
+ls
+vim App.js
+vim scenes/global/Sidebar.jsx
+vim scenes/global/Topbar.jsx
+vim scenes/global/Sidebar.jsx
+vim App.js
+vim scenes/global/Sidebar.jsx
+vim App.js
+vim App.js
+vim scenes/global/Topbar.jsx
+vim App.js
+ls
+cd ..
+ls
+vim package.json
+vim App.js
+ls
+cd src
+ls
+vim 
+vim App.js
+git checkout App.js
+cd ..
+ls
+vim package.json
+vim App.js
+cd ..
+ls
+cd react-admin-dashboard
+ls
+cd src
+ls
+vim App.js
+ls
+vim index.css
+vim index.t
+vim index.js
+cd ..
+ls
+cd src
+ls
+cd scenes
+ls
+cd dashboard
+ls
+vim index.jsx
+ls
+cd ..
+ls
+cd ..
+ls
+cd components
+ls
+cd ..
+cd scenes
+ls
+cd global
+vim Sidebar.jsx
+ls
+cd ..
+ls
+cd form
+ls
+vim index.jsx
+cd ..
+ls
+cd dashboard
+ls
+vim index.jsx
+cd ..
+ls
+cd pie
+ls
+vim index.jsx
+cd ..
+ls
+cd dashboard
+ls
+vim index.jsx
+git checkout index.jsx
+ls
+cd ..
+ls
+ls
+cd ..
+cd components
+ls
+vim StatBox.jsx
+ls
+cd ..
+cd scenes
+vim dashboard/index.jsx
+cd ..
+ls
+cd components
+ls
+vim StatBox.jsx
+ls
+cd ..
+cd scenes/dashboard
+vim index.jsx
+ls
+cd ..
+ls
+cd form
+ls
+vim index.jsx
+ls
+cd ..
+ls
+cd ..
+vim App.js
+cd scenes
+ls
+cd form
+ls
+git status
+ls
+vim index.jsx
+git checkout index.jsx index.jsx
+;s
+ls
+vim index.jsx
+ls
+cd ..
+ls
+cd dashboard
+cd ..
+cd global
+vim Sidebar.jsx
+ls
+cd ..
+ls
+ssh sss
+ssh sora
+ls
+prog
+cd docker/beyond_front
+cd beyond_front_volume
+ls
+cd it_asset_management
+git switch develop
+git statux
+git statux
+git status
+git diff src
+git add src/routes/auth.py
+git commit -m 'fix:response data'
+git push origin develop
+git switch main
+git pull
+git switch develop
+git status
+ls
+git diff
+vim main.py
+ls
+cd src
+ls
+cd crud
+ls
+vim user.py
+ls
+cd ..
+ls
+cd routes
+ls
+vim user.py
+cd ..
+cd 
+ls
+prog
+cd docker/beyond_front/beyond_front_volume/it_asset_management
+ls
+cd src
+ls
+vim routes/user.py
+ls
+vim schemas/user.py
+vim routes/user.py
+vim crud/user.py
+ls
+cd schemas
+vim user.py
+cd ..
+vim routes/user.py
+vim function/oauth2.py
+vim function/token.py
+vim crud/user.py
+vim function/token.py
+vim function/oauth2.py
+ls
+vim schemas/user.py
+vim schemas/user.py
+vim routes/user.py
+vim schemas/user.py
+vim schemas/user.py
+vim routes/user.py
+vim schemas/user.py
+vim routes/user.py
+vim crud/user.py
+vim schemas/user.py
+vim crud/user.py
+ls
+make up
+make up
+make exec_f
+tmux a
+ls
+tmux new
+cd Desktop/
+vim memo 
+obs
+ls
+cd reseach
+ls
+vim ÂÉØÇËÄÉ£ÊÉ∂ÉßÁÉ¨Æ
+cd ÂÉØÇËÄÉ£ÊÉ∂ÉßÁÉ¨Æ
+ls
+vim ÈÉ∂ÉÇÈÄ£.md
+ls
+vim „Çº„É£Éø„É£É™„É£º„É£´.md
+cd ÊÉ∑ÉÇË™≠
+ls
+cd ..
+ls
+vim ÈÉ∂ÉÇÈÄ£.md
+tmit
+ls
+prog
+ls
+cd docker/beyond_front
+ls
+make exec_f
+ls
+cd beyond_front_volume
+ls
+cd beyond_front
+ls
+cd src
+ls
+vim index.tsx
+vim App.tsx
+tmux kill-server
+tmux new
+tnvim App.tsx
+tmux new
+prog
+cd docker/beyond_front/
+ls
+tmux new
+tmux a

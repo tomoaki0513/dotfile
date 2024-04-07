@@ -1,0 +1,1000 @@
+cd ..
+ls
+cd ..
+ls
+vim tsconfig.json
+vim tsconfig.json
+vim tsconfig.json
+ls
+cd src/stories/atoms
+vim BarChart.stories.tsx
+vim Button.stories.ts
+vim Button.tsx
+vim Button.stories.ts
+vim BarChart.stories.tsx
+vim BarChart.stories.tsx
+mv BarChart.stories.tsx tmp
+;s
+ls
+cd ..
+ls
+cd ..
+ls
+cd data
+ls
+mv mockData.tsx mockData.jsx
+vim mockData.jsx
+ls
+mv mockData.jsx mockData.ts
+cd ..
+ls
+cd stories
+ls
+git status
+vim tmp
+ls
+cd atoms
+vim tmp
+mv tmp BarChart.stories.tsx
+vim BarChart.stories.tsx
+ls
+vim BarChart.stories.tsx
+rm BarChart.stories.tsx
+vim BarChart.stories.tsx
+cd ../..
+ls
+cd ..
+ls
+cd docs
+ls
+vim Dockerfile.fro
+vim Dockerfile.front
+cd develop/beyond_front
+ls
+cd docs
+ls
+vim README.md
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+ls
+cd develop/beyond_front
+ls
+cd src/stories
+ls
+vim atoms/Button.tsx
+vim atoms/Button.tsx
+git status
+cd ../..
+ls
+cd ..
+ls
+cd ..
+cd develop/beyond_front/src/stories
+ls
+git branch
+git status
+git pull origin monitor
+ls
+cd sr
+curl -L https://iterm2.com/shell_integration/install_shell_integration_and_utilities.sh | bash
+color
+vim 
+ls
+ls
+ls
+cd atoms
+ls
+vim BarChart.tsx
+vim BarChart.stories.tsx
+ls
+vim BarChart.stories.tsx
+ls
+vim BarChart.tsx
+ls
+cd ..
+ls
+cd ..
+vim App.tsx
+cd stories/atoms
+ls
+vim BarChart.tsx
+q
+ls
+cd ..
+cd ..
+ls
+vim App.tsx
+cd develop/beyond_front/src/stories
+cd ..
+ls
+cd ..
+ls
+cd ..
+cd beyond_front/src/stories
+ls
+cd ..
+mkdir data
+cd data
+vim mockData.tsx
+cd ..
+ls
+cd stories/
+cd atoms
+ls
+vim BarChart.tsx
+ls
+rm BarChart.stories.tsx
+mv BarChart.tsx BarChart.jsx
+ls
+cd ..
+ls
+cd ..
+ls
+vim App.tsx
+ls
+ls
+cd ..
+ls
+vim package.json
+vim package.json
+ls
+rm package-lock.json
+vim package.json
+ls
+rm -rf node_modules
+vim package.json
+git diff package.json
+ls
+git status
+git status
+git reset HEAD
+git status
+git checkout .
+git status
+cd src
+ls
+rm -rf data
+rm stories/atoms/BarChart.jsx
+git status
+cd ..
+ls
+vim package.json
+rm package-lock.json
+rm -rf node_modules
+ls
+vim package.json
+;s
+ls
+cd src/stories/atoms
+vim Button.stories.ts
+ls
+cd ..
+ls
+cd ..
+mkdir data
+cd data
+vim mockData.tsx
+ls
+cd ..
+cd stories/atoms
+ls
+vim BarChart.tsx
+vim BarChart.tsx
+mv BarChart.tsx BarChart.jsx
+vim BarChart.jsx
+vim BarChart.jsx
+mv BarChart.jsx BarChart.tsx
+ls
+vim BarChart.tsx
+make exec_f
+make exec_f
+ks
+ls
+make exec_f
+ls
+vim Dockerfile.front
+vim Dockerfile.front
+vim Makefile
+vim Makefile
+make exec_f
+vim Dockerfile.
+vim Dockerfile.front
+vim Dockerfile.front
+vim Dockerfile.front
+docker images
+docker rmi 3cf 10b 21d 916 c84
+docker images
+docker rmi 27f 282 4e4 9b7 ca9 c74
+ls
+docker ps -a
+tmit
+docker -v
+echo $PATH
+printenv
+ls
+docker ps 
+make exec_f
+top
+top
+s
+ls
+vim Dockerfile.front
+vim docker-compose.yml
+vim docker-compose.yml
+vim Dockerfile.front
+vim docker-compose.yml
+vim Dockerfile.front
+vim Dockerfile.front
+vim Dockerfile.front
+vim Dockerfile.front
+vim Dockerfile.front
+vim Dockerfile.front
+vim docker-compose.yml
+vim Dockerfile.front
+vim Dockerfile.nvim
+vim docker-compose.yml
+vim Dockerfile.nvim
+vim Dockerfile.nvim
+vim Dockerfile.nvim
+vim Dockerfile.nvim
+vim docker-compose.yml
+vim Dockerfile.nvim
+vim docker-compose.yml
+vim docker-compose.yml
+vim Dockerfile.nvim
+vim Dockerfile.it_asset
+vim docker-compose.yml
+vim docker-compose.yml
+vim Dockerfile.it_asset
+vim docker-compose.yml
+vim docker-compose.yml
+vim Dockerfile.nvim
+vim Dockerfile.nvim
+vim Dockerfile.nvim
+ls
+make exec_i
+npm run storybook
+make exec_f
+make exec_f
+docker images
+docker rmi acb c74 89e
+docker volume ls
+docker volume inspect mysql-volume
+cd /var/lib/
+ls
+cd
+prog
+cd docker/beyond_front
+ls
+mv develop beyond_front_volume
+cd beyond_front_volume
+ls
+cp -r ~/dotfile ./
+ls
+cd dotfile
+ll
+cd zsh
+ls
+vim alias.zsh
+vim p
+vim plugin.zsh
+vim .zshrc
+vim options.zsh
+vim myfunc.zsh
+vim .zshrc
+ls
+cd ..
+ls
+cd ..
+cd beyond_front
+ls
+vim test
+ll
+cd ..
+cd it_asset_management
+ls
+ll
+vim .env
+cd ..
+cd dotfile
+ls
+vim zsh/.zshrc
+vim zsh/alias.zsh
+ls
+cd nvim
+ls
+cd ..
+ls
+cd script
+ls
+vim init.sh
+ls
+cd ..
+ls
+cd nvim
+ls
+vim init.vim
+vim plugin-config.vim
+vim jetpack.vim
+ls
+cd ..
+cd script/i
+cd script/in
+ls
+cd script/
+vim init.sh
+make exec_n
+make down
+make build
+make up
+make exec_n
+make down
+make build
+make up
+make exec_n
+ssh sora
+ssh sss
+ssh sora
+ssh sss
+ssh sora
+tmux new
+ssh sss
+ssh sora
+ssh sss
+ping rookie
+nc -v -w 1 133.92.147.245 22
+ping rookie
+ssh sss
+ssh cosmos2
+ping cosmos2
+ping cosmos1
+ping cosmos3
+ping ape
+ping sumaug
+ping share-wiki
+ping cosmos1
+ping rookie
+ssh rookie
+ssh tnakamura@rookie.eng.kagawa-u.ac.jp
+ping rookie
+ssh sora
+ssh sss
+ssh sora
+ls
+ssh sss
+ssh sora
+tmux a
+ls
+cd
+cd Desktop/saisho_laboratory
+ls
+cd AXIES
+ls
+cd ..
+cd ÂÉ≠É≤Ë´É∂
+ls
+cd sotsuron2021_nakamura
+ls
+vim paper.tex
+ls
+vim bibtex.bib 
+ls
+ll
+cd .git
+ls
+cd ..
+cd .tools
+ls
+ls
+ll
+vim mptex2pdf
+ls
+cd ..
+ls
+ls
+ll
+cd .github
+ls
+cd workflows
+ls
+vim compile.yml
+vim release.yml
+ls
+cd ..
+ls
+cd ..
+ls
+cd .tools
+ls
+vim mptex2pdf
+ls
+cd ..
+ls
+cd Chap
+ls
+vim Overview.tex
+vim Overview.tex
+cd
+cd Desktop
+cd ‰∏≠ÈÉ∂É≥ÁÉπ∫ËÉÅ®
+ls
+vim resume\ 2.tex
+ls
+cd 
+cd Desktop
+cd saisho_laboratory
+ls
+cd ÂÉ≠É≤Ë´É∂
+ls
+cd sotsuron2021_nakamura
+ls
+cd Chap
+ls
+vim Overview.
+vim Overview.tex
+cd
+cd Desktop
+cd tmp
+ls
+cd s20g451-master-thesis-main
+ls
+vim Makefile
+ls
+vim latexmkrc
+vim build.sh
+cd
+cd Desktop
+vim cwec_v4.12.xml
+ls
+vim memo
+ls
+vim cwec_v4.12.xml
+vim memo
+ping 133.92.145.11
+ping mail.eng.kagawa-u.ac.jp
+ping stwww.kagawa-u.ac.jp
+ping kanon.eng.kagawa-u.ac.jp
+ping guppy.eng.kagawa-u.ac.jp
+obs
+cd ÊÉ∑•ÂÉÄ±
+ls
+cd ..
+ls
+cd „É£É¶„É£≥„É£É∑„É£¨„É£º„É£É®
+;s
+ls
+vim ÊÉ∑•ÂÉÄ±.md
+ls
+ssh rookie
+ssh sora
+ssh sora
+ssh sora
+obs
+cd reseach/
+ls
+cd ÂÉØÇËÄÉ£ÊÉ∂ÉßÁÉ¨Æ/
+ls
+prog
+cd pdf_honnyaku/l
+cd pdf_honnyaku/
+ls
+vim text1ja.txt 
+vim text2ja.txt 
+vim text4ja.txt 
+vim text3ja.txt 
+vim text5ja.txt 
+vim text6ja.txt 
+vim  text2ja.txt 
+vim  text3ja.txt 
+vim text2ja.txt 
+vim text4ja.txt 
+vim text5ja.txt 
+vim text6ja.txt 
+vim text2ja.txt 
+vim text5ja.txt 
+vim text6ja.txt 
+cd Desktop/
+vim memo
+prog
+cd it_asset_management/
+ls
+cd src/
+ls
+vim routes/hard.py 
+ls
+ls
+ssh sora
+ls
+prgo
+prog
+cd it_asset_management/
+ls
+cd doc
+ls
+cd ..
+ls
+cd ..
+ls
+ssh rookie
+ls
+cd go/src/github.com/sai-lab/AssetManagement/server/ls
+cd go/src/github.com/sai-lab/AssetManagement/server/
+ls
+cd ..
+ls
+cd agent/
+ls
+vim shell/debian_soft.sh 
+ssh rookie
+cd 
+cd Desktop/
+ls
+vim memo 
+ls
+obs
+ls
+cd reseach/
+ls
+cd ÂÉØÇËÄÉ£ÊÉ∂ÉßÁÉ¨Æ/
+ls
+cd ÊÉ∑ÉÇË™≠/
+cd ..
+vim ÈÉ∂ÉÇÈÄ£.md 
+prog
+cd medea-cnter/
+ls
+cd spayware_virus/
+ls
+python3 main.py 
+vim TopVirus.csv 
+python3
+ls
+cd ..ls
+cd ..
+ls
+cd triming/
+ls
+python3 main.py 
+cd ..
+ls
+cd mail_count/
+ls
+python3 main.py 
+vim main.py 
+python3 main.py 
+python3 main.py
+python3 main.py
+vim
+ls
+ls
+ls
+ls
+tmux a
+ls
+cd
+ls
+cd Desktop
+ls
+vim kane.py
+python3 kane.py
+vim kane.py
+python3 kane.py
+ssh sora
+ls
+make exec_n
+ls
+make down
+ls
+vim 
+cd
+cd Desktop
+ls
+vim „Çº„É£Éø„É£É™„É£º„É£´Ë≥™ÂÉµÉØ„Ç≥„É£ÉÅ„É£≥„É£É®.md
+obs
+ls
+cd ÊÉ∑•ÂÉÄ±
+ls
+cd ..
+ls
+vim task.md
+ls
+cd
+prog
+cd beyond_front
+ls
+cd docs
+ls
+cd db_init
+ls
+vim 1_it_init.sh
+vim test.sh
+vim 1_it_init.sh
+vim test.sh
+vim test.sql
+vim it_asset/create_database.sql
+vim test.s
+vim test.sql
+sh test.sh
+vim test.sh
+vim test.sql
+sh test.sh
+vim test.sql
+sh test.sh
+vim test.sql
+sh test.sh
+vim test.sql
+vim test.sql > test.txt
+ls
+vim test..txt
+vim test.txt
+rm test.txt
+vim test.sql < test.txt
+ls
+vim test.sql
+sh test.sh
+sh test.sh > test.txt
+vim test.txt
+vim test.sql
+sh test.sh
+vim test.sql
+sh test.sh
+vim test.sql
+sh test.sh
+vim test.sql
+sh test.sh
+which tmit
+cd 
+cd tmux_conf
+ls
+vim tmit.sh
+obs
+cd reseach
+ls
+cd ÂÉØÇËÄÉ£ÊÉ∂ÉßÁÉ¨Æ
+ls
+vim ÈÉ∂ÉÇÈÄ£.md
+obs
+ls
+cd reseach
+ls
+cd ÂÉØÇËÄÉ£ÊÉ∂ÉßÁÉ¨Æ
+ls
+vim ÈÉ∂ÉÇÈÄ£.md
+obs
+cd reseach
+ls
+cd ÂÉØÇËÄÉ£ÊÉ∂ÉßÁÉ¨Æ
+ls
+prog
+cd pdf_honnyaku/
+ls
+vim text3ja.txt
+vim text2ja.txt
+vim text4ja.txt
+vim text5ja.txt
+vim text4ja.txt
+obs
+ls
+vim task.md
+cd
+ls
+vim .zshrc
+vim dotfile/zsh
+cd dotfile/zsh
+ls
+vim alias.zsh
+c
+cd
+source .zshrc
+vim dotfile/zsh
+vim dotfile/zsh/alias.zsh
+source .zshrc
+task
+obs
+ls
+cd reseach/ÂÉØÇËÄÉ£ÊÉ∂ÉßÁÉ¨Æ/
+ls
+vim ÈÉ∂ÉÇÈÄ£.md
+tmux a
+prog
+cd vul_info_gather
+ls
+git status
+vim main.py
+crontab -l
+which crontab
+crontab -m
+crontab -l
+crontab -r
+ls
+cd ..
+ls
+cd
+cd
+ls
+prog
+cd vul_info_gather
+ls
+cd log
+ls
+vim error.log
+cd ..
+cd s
+cd src
+ls
+vim commonProcess.py
+cd ..
+s
+ls
+crontab -e
+cd /var/spool/cups
+cd ..
+crontab -e
+crontab -e
+ls
+prog
+ls
+cd vul_info_gather
+ls
+vim main.py
+vim main.py
+pip3 install schedule
+vim main.py
+python3 main.py
+vim main.py
+python3 main.py
+vim main.py
+python3 main.py
+vim main.py
+vim main.py
+python3 main.py
+prog
+ld
+ls
+cd it_asset_management
+ls
+vim main.py
+ls
+prog
+cd vul_info_gather
+ls
+cd s
+cd save
+ls
+cd initial
+ls
+cd ..
+cd .
+cd ..
+cd log
+vim error.log
+ls
+cd ..
+ls
+vim main.py
+python3 main.py
+vim main.py
+ps
+ps | grep python
+ps | grep main
+jobs
+kill -9 58317
+python3 main.py
+ps | grep main
+kill -9 59384
+vim main.py
+python3 main.py
+ls
+vim main.py
+python3 main.py
+ps | grep main
+kill -9 60392
+python3 main.py
+prog
+cd vul_info_gather
+ls
+vim main.py
+ls
+ll
+cd doc
+ls
+cd ..
+cd docs
+l
+ls
+vim crontab
+prog
+cd impact-calculating
+ls
+cd src
+ls
+cd function
+ls
+vim impact_calc.py
+cd
+cd Desktop
+vim memo
+prog
+cd vul_info_gather
+ls
+cd save
+cd ..
+cd src
+vim getVersion.py
+cd ..
+cd save/initial
+vim nvd2012.json
+ls
+cd beyond_front_volume/beyond_front/src/stories/atoms
+vim BarChart.tsx
+prog
+ls
+cd docker/react-admin
+ls
+ls
+cd react-admin-dashboard
+ls
+cd src/data
+ls
+vim mockData.js
+cd ..
+ls
+vim App.js
+ls
+prog
+cd docker/beyond_front/beyond_front_volume
+ls
+cd beyond_front/src/stories
+ls
+cd molecules
+ls
+cd ..
+ls
+cd atoms
+ls
+vim Header.tsx
+ls
+cd ..
+cd molecules
+ls
+cd ..
+ls
+cd atoms
+ls
+vim H
+vim Header.tsx
+vim ../molecules/Header.tsx
+vim BarChart.tsx
+vim BarChart.stories.tsx
+cd ../..
+ls
+cd data
+ls
+vim mockData.ts
+cd ..
+cd stories/atoms
+cd ..
+ls
+cd molecules
+ls
+vim Table.tsx
+s
+ls
+vim ManageTable.tsx
+cd ..
+cd atoms
+ls
+vim Calender.tsx
+vim Calender.tsx
+ls
+vim Calendar.
+vim Calendar.tsx
+vim Calender.tsx
+rm Calender.tsx
+vim Calendar.tsx
+vim Accordion.stories.tsx
+cd ..
+cd molecules
+vim Header.tsx
+cd ..
+cd ato
+cd atoms
+vim Accordion.stories.tsx
+vim Accordion.stories.tsx
+cd ..
+cd molecules
+vim Faq.stories.tsx
+vim Faq.tsx
+vim Sidebar.stories.tsx
+vim Sidebar.stories.tsx
+vim Sidebar.tsx
+vim Topbar.tsx
+vim Topbar.stories.tsx
+cd ../..
+ls
+vim App.tsx
+cd ..
+ls
+vim package.json
+ls
+vim package-lock.json
+cd src
+ls
+vim App.tsx
+vim theme.ts
+vim App.
+vim App.tsx
+ls
+vim index.css
+vim index.tsx
+vim index.tsx
+vim App.tsx
+ls
+cd ..
+cd src/stories/atoms
+ls
+vim PieChart.tsx
+ls
+vim StarBox.tsx
+ls
+vim StarBox.tsx
+vim StarBox.tsx
+mv StarBox.tsx StatBox.tsx
+vim ProgressCircle.tsx
+cd ..
+cd organisms
+ls
+vim Home.tsx
+cd ..
+ls
+cd ..
+ls
+vim App.tsx
+ls
+cd stories
+cd molecules
+ls
+vim Inputform.tsx
+vim ../../App.tsx
+vim ../../App.tsx
+ls
+vim Inputform.tsx
+cd ..
+cd ..
+ls
+vim .env
+cd ..
+vim .env
+q
+git status
+git add -A
+git commit -m '„É£Ä„É£É£„Ç∑„É£•„É£Éº„É£º„É£É©‰ΩÉºÊÉ®É∞„Å´ÂøÉ•Ë¶Å„Å™Ê©ÉøËÉ£ΩËøΩÂÉ™ÉÄ'
+git push origin monitor
+cd ../..
+ls
+cd ..
+ls
+scp -r beyond_front tnakamura@sora.eng.kagawa-u.ac.jp:~/
+scp -r beyond_front tnakamura@sora.eng.kagawa-u.ac.jp:~/beyond_front
+ls
+scp -r beyond_front/ tnakamura@sora.eng.kagawa-u.ac.jp:~/beyond_front
+scp -r beyond_front/ tnakamura@sss.eng.kagawa-u.ac.jp:~/
+ls
+ping kyoumusyst.kagawa-u.ac.jp
+cd
+vim .tmux.conf
+ls
+cd Desktop
+ls
+vim memo
+ls
+vim „Çº„É£Éø„É£É™„É£º„É£´Ë≥™ÂÉµÉØ„Ç≥„É£ÉÅ„É£≥„É£É®.md
+ssh sota
+ssh sora
+ls
+uvicorn 
+uvicorn 

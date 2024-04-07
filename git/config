@@ -1,0 +1,11 @@
+[user]
+    name = tomoaki0513
+    email = tomaki0513@gmail.com
+[alias]
+    s = status
+    b = branch
+    c = commit
+    a = add
+    d = diff
+[pull]
+    ff = only

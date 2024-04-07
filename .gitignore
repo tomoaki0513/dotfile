@@ -1,0 +1,17 @@
+# 最初にすべての階層のファイルを無視します
+# 階層は必要なだけ追加する
+### all ignore ###
+/*
+/.**
+
+### not ignore ###
+!/.zshrc
+!/.bash_profile
+!/.tmux.conf
+!/nvim/init.vim
+!/nvim/dein.toml
+
+!/README.md
+!/LICENSE
+!.gitignore
+!.gitkeep
